@@ -1,0 +1,229 @@
+
+==================================================
+FILE: ispu_dki1.csv
+Jumlah baris: 5173
+Kolom: ['tanggal', 'stasiun', 'pm25', 'pm10', 'so2', 'co', 'o3', 'no2', 'max', 'critical', 'categori']
+
+Jumlah baris per tahun:
+tanggal
+2010    365
+2011    365
+2012    366
+2013    365
+2014    365
+2015    365
+2016    366
+2017    365
+2018    365
+2019    365
+2020    366
+2021    365
+2023    365
+2024    366
+2025     59
+
+Jumlah nilai kosong per kolom:
+tanggal        0
+stasiun        0
+pm25        4027
+pm10         216
+so2          188
+co           168
+o3           209
+no2          199
+max           13
+critical     114
+categori       0
+
+Duplikasi tanggal + stasiun: 0
+
+==================================================
+FILE: ispu_dki2.csv
+Jumlah baris: 5173
+Kolom: ['tanggal', 'stasiun', 'pm25', 'pm10', 'so2', 'co', 'o3', 'no2', 'max', 'critical', 'categori']
+
+Jumlah baris per tahun:
+tanggal
+2010    365
+2011    365
+2012    366
+2013    365
+2014    365
+2015    365
+2016    366
+2017    365
+2018    365
+2019    365
+2020    366
+2021    365
+2023    365
+2024    366
+2025     59
+
+Jumlah nilai kosong per kolom:
+tanggal        0
+stasiun        0
+pm25        4039
+pm10         499
+so2          424
+co           398
+o3           405
+no2          400
+max            8
+critical     355
+categori       0
+
+Duplikasi tanggal + stasiun: 0
+
+==================================================
+FILE: ispu_dki3.csv
+Jumlah baris: 5173
+Kolom: ['tanggal', 'stasiun', 'pm25', 'pm10', 'so2', 'co', 'o3', 'no2', 'max', 'critical', 'categori']
+
+Jumlah baris per tahun:
+tanggal
+2010    365
+2011    365
+2012    366
+2013    365
+2014    365
+2015    365
+2016    366
+2017    365
+2018    365
+2019    365
+2020    366
+2021    365
+2023    365
+2024    366
+2025     59
+
+Jumlah nilai kosong per kolom:
+tanggal        0
+stasiun        0
+pm25        4040
+pm10         628
+so2          562
+co           466
+o3           491
+no2          651
+max           13
+critical     408
+categori       0
+
+Duplikasi tanggal + stasiun: 0
+
+==================================================
+FILE: ispu_dki4.csv
+Jumlah baris: 5173
+Kolom: ['tanggal', 'stasiun', 'pm25', 'pm10', 'so2', 'co', 'o3', 'no2', 'max', 'critical', 'categori']
+
+Jumlah baris per tahun:
+tanggal
+2010    365
+2011    365
+2012    366
+2013    365
+2014    365
+2015    365
+2016    366
+2017    365
+2018    365
+2019    365
+2020    366
+2021    365
+2023    365
+2024    366
+2025     59
+
+Jumlah nilai kosong per kolom:
+tanggal        0
+stasiun        0
+pm25        4076
+pm10         783
+so2          560
+co           596
+o3           713
+no2          526
+max           16
+critical     419
+categori       0
+
+Duplikasi tanggal + stasiun: 0
+
+==================================================
+FILE: ispu_dki5.csv
+Jumlah baris: 5173
+Kolom: ['tanggal', 'stasiun', 'pm25', 'pm10', 'so2', 'co', 'o3', 'no2', 'max', 'critical', 'categori']
+
+Jumlah baris per tahun:
+tanggal
+2010    365
+2011    365
+2012    366
+2013    365
+2014    365
+2015    365
+2016    366
+2017    365
+2018    365
+2019    365
+2020    366
+2021    365
+2023    365
+2024    366
+2025     59
+
+Jumlah nilai kosong per kolom:
+tanggal        0
+stasiun        0
+pm25        4329
+pm10        1361
+so2         1276
+co          1210
+o3          1254
+no2         1238
+max            9
+critical    1113
+categori       0
+
+Duplikasi tanggal + stasiun: 0
+
+==================================================
+FILE: ispu_dki_all.csv
+Jumlah baris: 5538
+Kolom: ['tanggal', 'stasiun', 'pm25', 'pm10', 'so2', 'co', 'o3', 'no2', 'max', 'critical', 'categori']
+
+Jumlah baris per tahun:
+tanggal
+2010    365
+2011    365
+2012    366
+2013    365
+2014    365
+2015    365
+2016    366
+2017    365
+2018    365
+2019    365
+2020    366
+2021    365
+2022    365
+2023    365
+2024    366
+2025     59
+
+Jumlah nilai kosong per kolom:
+tanggal        0
+stasiun        1
+pm25        4022
+pm10         315
+so2          130
+co            88
+o3           104
+no2          106
+max            1
+critical       4
+categori       0
+
+Duplikasi tanggal + stasiun: 0
